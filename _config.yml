@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Anoop Kunchukuttan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "NLP Researcher working on Reasoning Models, Machine Translation, Multilingual Learning and Indian Language NLP"
   location         : "Hyderabad, India"
   employer         : "Microsoft,AI4Bharat"
   uri              : # URL
@@ -47,9 +47,10 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "anoopkunchukuttan"
+  huggingface      : "ai4bharat"    
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+  
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
