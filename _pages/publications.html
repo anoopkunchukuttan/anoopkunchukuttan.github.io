@@ -18,6 +18,7 @@ author_profile: true
 <li><a href="#" onclick="filterList("Speech")">Speech</a></li>
 <li><a href="#" onclick="filterList("Translation")">Translation</a></li>
 </ul>
+
 <ol id='publicationList'>
 <h2>2025</h2>
 <li class="NLP LLM Multilingual"> <b>Anoop Kxunchukuttan</b>. <i>Data and Model Centric Approaches for Expansion of Large Language Models to New languages</i>. EMNLP (to appear). <a href="https://github.com/anoopkunchukuttan/multilingual_extend_llm">[paper]</a> </li>
@@ -131,18 +132,18 @@ author_profile: true
 <li class="NLP"> <b>Anoop Kunchukuttan</b>. <i>Evaluation of Information Retrieval Systems</i>. <a href="http://www.kramirez.net/RI/Material/Internet/Evaluacion/seminar06_presentation.pdf">[paper]</a> </li>
 </ol>
 
-        <script>
-        function filterList(keyword) {
-            let items = document.querySelectorAll('#publicationList li');
-            items.forEach(item => {
-                if (keyword === '' || item.classList.contains(keyword)) {
-                    item.style.display = '';
-                } else {
-                    item.style.display = 'none';
-                }
-            });
+<script type='text/javascript'>
+function filterList(keyword) {
+    let items = document.querySelectorAll('#publicationList li');
+    items.forEach(item => {
+        if (keyword === '' || item.classList.contains(keyword)) {
+            item.style.display = '';
+        } else {
+            item.style.display = 'none';
         }
-        </script>
+    });
+}
+</script>
         
     
   
