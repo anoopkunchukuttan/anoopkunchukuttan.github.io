@@ -7,6 +7,7 @@ redirect_from:
   - /news.html
 ---
 
+<ul>
 <li> <i>12 Jan 2025</i>: Lecture on <i>Multilingual Language Modeling</i> as part of winter school on "Deep Learning for Vision and Language Modelling" at IIT Guwahati. The talk covers various aspects of multilingual learning from the beginning of the deep learning era to current multilingual LLMs. <a href="https://anoopkunchukuttan.gitlab.io/publications/presentations/wintersc_iitguwahati_multilingual_model_jan25.pdf">[slides]</a>  </li> 
 <li> <i>26 Dec 2024</i>: Honoured to received the KnowDis Machine Learning Award for 2024 along with Prof. Mitesh Khapra <a href="https://www.aninews.in/news/business/knowdis-ai-founder-saurabh-singal-announces-recipients-of-the-knowdis-machine-learning-awards20241226134135">[article]</a>  </li> 
 <li> <i>7 Dec 2024</i>: Talk about <i>NLP at scale for Indian languages</i> on the occasion of the <a href="https://ltrc.iiit.ac.in/silver-jubilee/">25th anniversary celebrations of Language Technologies Research Centre (LTRC)</a>, International Institute of Information Technology Hyderabad (IIITH) Glad to participate int he celebrations and meet a lot of old friends, colleagues and mentors from across India. Congratulations to LTRC on this great milestone! <a href="https://www.youtube.com/live/kdrsDGOnZEA?si=xP47DXIZVsyM9paG&t=10450">[talk recording]</a> <a href="https://anoopkunchukuttan.gitlab.io/publications/presentations/ltrc25_nlpscale_indic_dec24.pdf">[slides]</a> </li>

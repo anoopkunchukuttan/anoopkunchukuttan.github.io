@@ -16,6 +16,4 @@ Over the last decade, I have built/contributed to large-scale, broad-coverage re
 
 I completed my Ph.D. in 2018 at the [Department of Computer Science and Engineering](http://www.cse.iitb.ac.in), [IIT Bombay](http://www.iitb.ac.in). I did my research under the guidance of [Prof. Pushpak Bhattacharyya](http://www.cse.iitb.ac.in/~pb) at the [Center for Indian Language Technology](http://www.cfilt.iitb.ac.in). My doctoral research work explored various facets of machine translation and transliteration between related languages.
 
-News
-======
 
