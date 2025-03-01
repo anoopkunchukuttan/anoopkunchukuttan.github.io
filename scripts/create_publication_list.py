@@ -7,9 +7,23 @@ def generate_html_list(input_excel, output_file):
     # Sort by pub_year (newest to oldest)
     df = df.sort_values(by="pub_year", ascending=False)
     
+    # Extract and clean unique keywords
+    all_keywords = set()
+    for keywords in df["keyword"].dropna():
+        all_keywords.update(keywords.split('/'))
+    keywords = sorted(all_keywords)
+    
     # Open the output file in write mode
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("<ol>\n")  # Start ordered list
+        # Generate keyword filters
+        f.write("<h2>Filter by Keyword:</h2>\n")
+        f.write("<ul>\n")
+        f.write("<li><a href=\"#\" onclick=\"filterList('all')\">Show All</a></li>\n")
+        for keyword in keywords:
+            f.write(f"<li><a href=\"#\" onclick=\"filterList('{keyword}')\">{keyword}</a></li>\n")
+        f.write("</ul>\n")
+        
+        f.write("<ol id='publicationList'>\n")  # Start ordered list
         previous_year = None
         
         for _, row in df.iterrows():
@@ -46,11 +60,34 @@ def generate_html_list(input_excel, output_file):
             if pd.notna(row.get("pub_url")) and row["pub_url"] != "MISSING":
                 parts.append(f'<a href="{row["pub_url"]}">[paper]</a>')
             
+            # Get keywords for filtering
+            keyword_classes = []
+            if pd.notna(row.get("keyword")) and row["keyword"] != "MISSING":
+                keyword_classes = [kw.strip().replace(" ", "_") for kw in row["keyword"].split('/')]
+            keyword_class_str = " ".join(keyword_classes)
+            
             # Generate and write HTML list item only if there are valid parts
             if parts:
-                html_line = f'<li> {". ".join(parts)} </li>\n'
+                html_line = f'<li class="{keyword_class_str}"> {". ".join(parts)} </li>\n'
                 f.write(html_line)
         f.write("</ol>\n")  # End ordered list
+        
+        # Add JavaScript for filtering
+        f.write("""
+        <script>
+        function filterList(keyword) {
+            let items = document.querySelectorAll('#publicationList li');
+            items.forEach(item => {
+                let classes = item.className.split(" ");
+                if (keyword === 'all' || classes.includes(keyword.replace(" ", "_"))) {
+                    item.style.display = '';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        }
+        </script>
+        """)
 
 # Example usage
 generate_html_list("anoop_publications.xlsx", "output.html")
