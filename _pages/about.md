@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am **Anoop Kunchukuttan**. I am a Principal Applied Researcher in the *Microsoft Machine Translation* team in Hyderabad, India. I am a founding member and co-lead of [AI4Bharat](https://ai4bharat.iitm.ac.in), a research center based in IIT Madras that works to drive advances and build resources for Indian language NLP. I am honored to be currently serving as an area chair for ACL Rolling Review (ARR) in the multilinguality and low-resource/efficient NLP areas.
+I am a Principal Applied Researcher in the *Microsoft Machine Translation* team in Hyderabad, India. I am a founding member and co-lead of [AI4Bharat](https://ai4bharat.iitm.ac.in), a research center based in IIT Madras that works to drive advances and build resources for Indian language NLP. I am honored to be currently serving as an area chair for ACL Rolling Review (ARR) in the multilinguality and low-resource/efficient NLP areas.
 
 My research areas are Natural Language Processing, Machine Learning, Information Extraction, and Retrieval.  
-My research interests include multilingual learning and LLMs, instruction tuning of LLMs, representation learning, lexical and sentence semantics, NLP for related languages, machine translation, and transliteration. I am interested in building tools and resources for Indian language NLP.  
+
+My research interests include multilingual learning and LLMs, post-training of LLMs, reasoning and evaluation in LLMs, representation learning, NLP for related languages, machine translation, and transliteration. I am interested in building tools and resources for Indian language NLP.  
 
 Over the last decade, I have built/contributed to large-scale, broad-coverage resources like the Indic NLP Library, IndicTrans/Sata-Anuvaadak Translation systems, IndicLLMSuite, Airavata LLM, IIT Bombay Parallel Corpus, Samanantar Corpus, Indic NLP/NLG Suite, and Aksharantar/BrahmiNet transliteration corpora.  
 
