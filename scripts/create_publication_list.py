@@ -15,26 +15,21 @@ def generate_html_list(input_excel, output_file):
     
     # Open the output file in write mode
     with open(output_file, 'w', encoding='utf-8') as f:
-        # Generate keyword filters
+        # Generate keyword filters in a compact horizontal layout
         f.write("<h2>Filter by Keyword:</h2>\n")
-        f.write("<ul>\n")
-        f.write("<li><a href=\"#\" onclick=\"filterList('all')\">Show All</a></li>\n")
+        f.write("<div style='display: flex; flex-wrap: wrap; gap: 10px;'>\n")
+        f.write("<button onclick=\"filterList('all')\">Show All</button>\n")
         for keyword in keywords:
-            f.write(f"<li><a href=\"#\" onclick=\"filterList('{keyword}')\">{keyword}</a></li>\n")
-        f.write("</ul>\n")
+            f.write(f"<button onclick=\"filterList('{keyword}')\">{keyword}</button>\n")
+        f.write("</div>\n")
         
         f.write("<ol id='publicationList'>\n")  # Start ordered list
-        previous_year = None
+        
+        year_headers = {}
+        publication_lines = []
         
         for _, row in df.iterrows():
             parts = []
-            
-            # Check for new year header
-            if pd.notna(row.get("pub_year")) and row["pub_year"] != "MISSING":
-                current_year = row["pub_year"]
-                if current_year != previous_year:
-                    f.write(f"<h2>{current_year}</h2>\n")
-                    previous_year = current_year
             
             # Process authors if available and not 'MISSING'
             if pd.notna(row.get("authors")) and row["authors"] != "MISSING":
@@ -66,23 +61,48 @@ def generate_html_list(input_excel, output_file):
                 keyword_classes = [kw.strip().replace(" ", "_") for kw in row["keyword"].split('/')]
             keyword_class_str = " ".join(keyword_classes)
             
-            # Generate and write HTML list item only if there are valid parts
+            # Generate and store HTML list item only if there are valid parts
             if parts:
-                html_line = f'<li class="{keyword_class_str}"> {". ".join(parts)} </li>\n'
-                f.write(html_line)
+                year = row["pub_year"] if pd.notna(row.get("pub_year")) and row["pub_year"] != "MISSING" else "Unknown"
+                if year not in year_headers:
+                    year_headers[year] = f'<h2 class="year-header {year}">{year}</h2>\n'
+                html_line = f'<li class="publication-item {keyword_class_str} {year}"> {". ".join(parts)} </li>\n'
+                publication_lines.append((year, html_line))
+        
+        # Write filtered publication list
+        written_years = set()
+        for year, line in publication_lines:
+            if year not in written_years:
+                f.write(year_headers[year])
+                written_years.add(year)
+            f.write(line)
+        
         f.write("</ol>\n")  # End ordered list
         
-        # Add JavaScript for filtering
+        # Add JavaScript for filtering with year visibility control
         f.write("""
         <script>
         function filterList(keyword) {
-            let items = document.querySelectorAll('#publicationList li');
+            let items = document.querySelectorAll('.publication-item');
+            let years = document.querySelectorAll('.year-header');
+            let visibleYears = new Set();
+            
             items.forEach(item => {
                 let classes = item.className.split(" ");
                 if (keyword === 'all' || classes.includes(keyword.replace(" ", "_"))) {
                     item.style.display = '';
+                    visibleYears.add(classes[classes.length - 1]); // Capture the year class
                 } else {
                     item.style.display = 'none';
+                }
+            });
+            
+            years.forEach(year => {
+                let yearClass = year.classList[1];
+                if (visibleYears.has(yearClass)) {
+                    year.style.display = '';
+                } else {
+                    year.style.display = 'none';
                 }
             });
         }
