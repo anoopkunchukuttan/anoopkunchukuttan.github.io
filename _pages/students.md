@@ -7,18 +7,26 @@ redirect_from:
   - /students.html
 ---
 
-I guide students at IIT Madras, AI4Bharat, IIT Hyderabad either in an official capacity or as a mentor.  
-
-It gives me great pleasure to work with hard-working, talented and enthusiatic students.
+I guide students at IIT Madras, AI4Bharat, IIT Hyderabad either in an official capacity or as a mentor. It gives me great pleasure to work with hard-working, talented and enthusiatic students.
 
 - Sumanth Doddapaneni, Ph.D, IIT Madras
-- Anushka Singh, MS (Research), IIT Madras
-- Maharaj Brahma, Ph.D, IIT Hyderabad
+- Mohammed Safi Ur Rahman Khan, Ph.D, IIT Madras
 - Kaushal Bhogale, Ph.D, IIT Madras
 - Tahir Javed, Ph.D, IIT Madras
+- Maharaj Brahma, Ph.D, IIT Hyderabad
+- Anushka Singh, MS (Research), IIT Madras
+- Thanmay Jayakumar, MS (Research), IIT Madras
+- Ashwin Sankar, MS (Research), IIT Madras
+- Sanjay Suryanarayanan, Project Associate, AI4Bharat
+- Alan Saji, Project Associate, AI4Bharat
+- Sparsh Jain, Project Associate, AI4Bharat
 
 # Past Students
 
+- Ananya Sai, Ph.D, IIT Madras
+- Aditya Nanda Kishore, B.Tech, IIT Madras
+- Dilip Venkatesh, Project Associate, AI4Bharat
+- Javed Aktar Husain, Project Associate, AI4Bharat
 - Kaushal Kumar Maurya, Ph.D, IIT Hyderabad
 - Sushane Parthan, Ph.D, IIT Madras
 - Nandini Mundra, MS (Research), IIT Madras
