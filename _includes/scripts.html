@@ -3,6 +3,7 @@
 {% include analytics.html %}
 
 <!-- CUSTOM: Adding custom scripts for each page reading the list in include_script in the header -->
+<!-- Based on this blog: https://nathenry.com/writing/2020-10-05-scripts-jekyll.html#:~:text=One%20of%20the%20useful%20features,markdownify%20command%2C%20which%20strips%20Javascript.-->
 
 {% if page.include_scripts %}
   {% for include_script in page.include_scripts %}
