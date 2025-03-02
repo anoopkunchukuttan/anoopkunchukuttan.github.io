@@ -47,7 +47,7 @@ def generate_html_list(input_excel, output_file):
                     parts.append(author_name)  # Keep as is if no ';'
             
             if pd.notna(row.get("title")) and row["title"] != "MISSING":
-                parts.append(f"<i style='color: maroon;'>{row['title']}</i>")
+                parts.append(f"<i style='color: green;'>{row['title']}</i>")
             
             if pd.notna(row.get("conference")) and row["conference"] != "MISSING":
                 parts.append(f"{row['conference']}")
