@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-I contribute to open-source models, datasets and tools for NLP, particularly for Indic languages. This page shows a representative list of the resources I have worked on. For a more complete list, please check my [GitHub profile](https://github.com/anoopkunchukuttan) as well as the AI4Bharat [GitHub](https://github.com/AI4Bharat) and [Huggingface](https://huggingface.co/ai4bharat) repositories. I also maintain a [Hugging Face profile](https://huggingface.co/ai4bharat) where I share models and datasets.
+I contribute to open-source models, datasets and tools for NLP, particularly for Indic languages. This page shows a representative list of the resources I have worked on. For a more complete list, please check my [GitHub profile](https://github.com/anoopkunchukuttan) as well as the AI4Bharat [GitHub](https://github.com/AI4Bharat) and [Huggingface](https://huggingface.co/ai4bharat) repositories.
 
 <!-- <h2> Models </h2>
 
