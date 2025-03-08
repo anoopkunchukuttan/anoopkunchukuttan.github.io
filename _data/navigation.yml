@@ -17,6 +17,9 @@ main:
   - title: "Students"
     url: /students/  
 
+  - title: "CV"
+    url: /files/anoop_kunchukuttan_cv.pdf  
+
   # - title: "Teaching"
   #   url: /teaching/    
     
