@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "NLP Resources"
+permalink: /resources/
 author_profile: true
 ---
 
