@@ -5,7 +5,9 @@ function filterList(keyword) {
     
     items.forEach(item => {
         let classes = item.className.split(" ");
-        if (keyword === 'all' || classes.includes(keyword.replace(" ", "_"))) {
+        let keywordMatch = (keyword === 'all' || classes.includes(keyword.replace(" ", "_")));
+        
+        if (keywordMatch) {
             item.style.display = '';
             visibleYears.add(classes[classes.length - 1]); // Capture the year class
         } else {
