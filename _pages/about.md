@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anoop Kunchukuttan"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,3 +15,6 @@ My research interests include multilingual learning and LLMs, post-training of L
 Over the last decade, I have built/contributed to large-scale, broad-coverage resources like the Indic NLP Library, IndicTrans/Sata-Anuvaadak Translation systems, IndicLLMSuite, Airavata LLM, IIT Bombay Parallel Corpus, Samanantar Corpus, Indic NLP/NLG Suite, and Aksharantar/BrahmiNet transliteration corpora.
 
 I completed my Ph.D. in 2018 at the [Department of Computer Science and Engineering](http://www.cse.iitb.ac.in), [IIT Bombay](http://www.iitb.ac.in). I did my research under the guidance of [Prof. Pushpak Bhattacharyya](http://www.cse.iitb.ac.in/~pb) at the [Center for Indian Language Technology](http://www.cfilt.iitb.ac.in). My doctoral research work explored various facets of machine translation and transliteration between related languages.
+
+News
+====
