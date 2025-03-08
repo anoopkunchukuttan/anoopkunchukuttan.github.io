@@ -17,6 +17,9 @@ main:
   - title: "Students"
     url: /students/  
 
+  - title: "Resources"
+    url: /resources
+
   - title: "CV"
     url: /files/anoop_kunchukuttan_cv.pdf  
 
@@ -28,9 +31,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
