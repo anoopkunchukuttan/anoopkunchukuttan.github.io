@@ -18,3 +18,15 @@ I completed my Ph.D. in 2018 at the [Department of Computer Science and Engineer
 
 News
 ====
+
+<li> <i>19 Jun 2025</i>: Upcoming talks at IIIT Hyderabad on building Indic language datasets at scale and OdiaGen (IIT Bhubaneshwar) on reasoning models. </li>
+<li> <i>22 May 2025</i>: Hands-on tutorial from our team to train reasoning models at scale with open-source software and leveraging the power of Azure ML to make the process easy at Microsoft Build 2025. <a href="https://build.microsoft.com/en-US/sessions/BRK172?source=sessions">[Demo at 27 min]</a> &nbsp;&nbsp; <a href="https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/grpo/launch_grpo_command_job-med-mcqa-commented.ipynb">[Jupyter Notebook]</a> </li>
+<li> <i>16 May 2025</i>: 3 papers accepted to ACL 2025. Congratulations to all my collaborators and students! Continuing with our efforts to improve Indian language NLP and understanding multilingual models! <a href="https://arxiv.org/abs/2411.04699">[BhasaAnuvaad]</a> &nbsp;&nbsp; <<a href="https://arxiv.org/abs/2410.13394">[CIA: Cross-lingual LLM Evaluation]</a> &nbsp;&nbsp; <a href="https://arxiv.org/abs/2502.07424">[RomanLens]</a> </li>
+<li> <i>12 Apr 2025</i>: Happy to be part of panel discussions at <a href="https://www.aidays.io">AI Days 2025</a>, Hyderabad on Indian language NLP and LLMs. <a href="https://build.microsoft.com/en-US/sessions/BRK172?source=sessions">[Demo at 27 min]</a> &nbsp;&nbsp; <a href="https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/grpo/launch_grpo_command_job-med-mcqa-commented.ipynb">[Jupyter Notebook]</a> </li> 
+<li> <i>Apr 2025</i> Honoured to be part of the Academic Council at IIIT-Hyderabad. </li>
+<li> <i>Apr 2025</i> Honoured to be part of the CLD Program Curriculum and Review Committee at IIIT-Hyderabad. </li>
+<li> <i>8 Feb 2025</i>: Invited talk on <i>An Introduction to Reasoning 
+  Models with DeepSeek R1</i> as part of CSE Department Day, IIT Hyderabad. The talk introduces reasonin gmodels, particularly DeepSeek R1 and open-source reasoninng efforts initiated since R1's release. <a href="/files/publications/presentations/DeepSeek-OSSProjects-Intro-Feb2025.pdf">[slides]</a>  </li> 
+<li> <i>12 Jan 2025</i>: Lecture on <i>Multilingual Language Modeling</i> as part of winter school on "Deep Learning for Vision and Language Modelling" at IIT Guwahati. The talk covers various aspects of multilingual learning from the beginning of the deep learning era to current multilingual LLMs. <a href="/files/publications/presentations/wintersc_iitguwahati_multilingual_model_jan25.pdf">[slides]</a>  </li> 
+
+...[More News](/news)
