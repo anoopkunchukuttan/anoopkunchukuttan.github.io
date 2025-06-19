@@ -29,4 +29,4 @@ News
   Models with DeepSeek R1</i> as part of CSE Department Day, IIT Hyderabad. The talk introduces reasonin gmodels, particularly DeepSeek R1 and open-source reasoninng efforts initiated since R1's release. <a href="/files/publications/presentations/DeepSeek-OSSProjects-Intro-Feb2025.pdf">[slides]</a>  </li> 
 <li> <i>12 Jan 2025</i>: Lecture on <i>Multilingual Language Modeling</i> as part of winter school on "Deep Learning for Vision and Language Modelling" at IIT Guwahati. The talk covers various aspects of multilingual learning from the beginning of the deep learning era to current multilingual LLMs. <a href="/files/publications/presentations/wintersc_iitguwahati_multilingual_model_jan25.pdf">[slides]</a>  </li> 
 
-...[More News](/news)
+[More...](/news)
