@@ -10,10 +10,11 @@ redirect_from:
 <ul>
 
 
-<li> <i>19 Jun 2025</i>: Upcoming talks at IIIT Hyderabad on building Indic language datasets at scale and OdiaGen (IIT Bhubaneshwar) on reasoning models. </li>
+<li> <i>24 Jun 2025</i>: Tutorial on <i>Building Multilingual NLP datasets at scale</i> at IASNLP Summer School at IIIT Hyderabad. <a href="/files/publications/presentations/iasnlp_iiith_building_datasets_2025.pdf">[slides]</a> </li> 
+<li> <i>19 Jun 2025</i>: Upcoming talk at OdiaGen (IIT Bhubaneshwar) on reasoning models. </li>
 <li> <i>22 May 2025</i>: Hands-on tutorial from our team to train reasoning models at scale with open-source software and leveraging the power of Azure ML to make the process easy at Microsoft Build 2025. <a href="https://build.microsoft.com/en-US/sessions/BRK172?source=sessions">[Demo at 27 min]</a> &nbsp;&nbsp; <a href="https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/grpo/launch_grpo_command_job-med-mcqa-commented.ipynb">[Jupyter Notebook]</a> </li>
-<li> <i>16 May 2025</i>: 3 papers accepted to ACL 2025. Congratulations to all my collaborators and students! Continuing with our efforts to improve Indian language NLP and understanding multilingual models! <a href="https://arxiv.org/abs/2411.04699">[BhasaAnuvaad]</a> &nbsp;&nbsp; <<a href="https://arxiv.org/abs/2410.13394">[CIA: Cross-lingual LLM Evaluation]</a> &nbsp;&nbsp; <a href="https://arxiv.org/abs/2502.07424">[RomanLens]</a> </li>
-<li> <i>12 Apr 2025</i>: Happy to be part of panel discussions at <a href="https://www.aidays.io">AI Days 2025</a>, Hyderabad on Indian language NLP and LLMs. <a href="https://build.microsoft.com/en-US/sessions/BRK172?source=sessions">[Demo at 27 min]</a> &nbsp;&nbsp; <a href="https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/grpo/launch_grpo_command_job-med-mcqa-commented.ipynb">[Jupyter Notebook]</a> </li> 
+<li> <i>16 May 2025</i>: 3 papers accepted to ACL 2025. Congratulations to all my collaborators and students! Continuing with our efforts to improve Indian language NLP and understanding multilingual models! <a href="https://arxiv.org/abs/2411.04699">[BhasaAnuvaad]</a> &nbsp;&nbsp; <a href="https://arxiv.org/abs/2410.13394">[CIA: Cross-lingual LLM Evaluation]</a> &nbsp;&nbsp; <a href="https://arxiv.org/abs/2502.07424">[RomanLens]</a> </li>
+<li> <i>12 Apr 2025</i>: Happy to be part of panel discussions at <a href="https://www.aidays.io">AI Days 2025</a>, Hyderabad on Indian language NLP and LLMs. </li> 
 <li> <i>Apr 2025</i> Honoured to be part of the Academic Council at IIIT-Hyderabad. </li>
 <li> <i>Apr 2025</i> Honoured to be part of the CLD Program Curriculum and Review Committee at IIIT-Hyderabad. </li>
 <li> <i>8 Feb 2025</i>: Invited talk on <i>An Introduction to Reasoning 

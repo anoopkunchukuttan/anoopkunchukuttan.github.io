@@ -6,19 +6,19 @@ def generate_html_from_excel(file_path, output_file):
     
     # Define the custom order for sections with singular names
     section_order = {
-        "Tutorial": "Tutorials",
-        "Keynote": "Keynotes",
-        "Invited Talk": "Invited Talks",
-        "Course Lecture": "Course Lectures"
+        "Tutorial": ("Tutorials", "tutorials"),
+        "Keynote": ("Keynotes", "keynotes"),
+        "Invited Talk": ("Invited Talks", "invited_talks"),
+        "Course Lecture": ("Course Lectures", "course_lectures"),
     }
     
     # Initialize HTML content
     html_content = ""
     
-    for singular_name, plural_name in section_order.items():
+    for singular_name, (plural_name, section_id) in section_order.items():
         group = df[df["type"] == singular_name]
         if not group.empty:
-            html_content += f'<h2>{plural_name}</h2>\n'
+            html_content += f'<h2 id="{section_id}">{plural_name}</h2>\n'
             
             for _, row in group.iterrows():
                 talk_title = f'<b><span style="color:green;">{row["talk_title"]}</span></b>'
