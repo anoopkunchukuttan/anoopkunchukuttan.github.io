@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Principal Applied Researcher in the *Microsoft Machine Translation* team in Hyderabad, India. I am a founding member and co-lead of [AI4Bharat](https://ai4bharat.iitm.ac.in), a research center based in IIT Madras that works to drive advances and build resources for Indian language NLP. I am honored to be currently serving as an area chair for ACL Rolling Review (ARR) in the multilinguality and low-resource/efficient NLP areas. I have also served as an adjunct faculty in the Department of Computer Science, IIT Madras in the past.
+I am a Principal Applied Researcher in the Azure AI Platform group in Hyderabad, India with my research focussing on multilingual and mulimodal language technologies. I work with the **Azure Speech team** and I have worked with the **Azure  Machine Translation** team for a long time previously. I am a founding member and co-lead of [**AI4Bharat**](https://ai4bharat.iitm.ac.in), a research center based in IIT Madras that works to drive advances and build resources for Indian language NLP. I am honored to be currently serving as an area chair for ACL Rolling Review (ARR) in the multilinguality and low-resource/efficient NLP areas. I have also served as an adjunct faculty in the Department of Computer Science, IIT Madras in the past.
 
 My research areas are Natural Language Processing, Machine Learning, Information Extraction, and Retrieval.  
 
@@ -20,7 +20,10 @@ I completed my Ph.D. in 2018 at the [Department of Computer Science and Engineer
 
 News
 ====
-
+<li> <i>28 Oct 2025</i>: 2 new pre-prints on reasoning - one on multilingual reasoning (<a href="https://arxiv.org/abs/2510.24932"><i>RiddleBench: A New Generative Reasoning Benchmark for LLMs</i></a>) and another on a new challenging Puzzle benchmark to evaluate reasoning models (<a href="https://arxiv.org/abs/2510.20647"><i>The Reasoning Lingua Franca: A Double-Edged Sword for Multilingual AI
+</i></a>)  </li> 
+<li> <i>25 Oct 2025</i>: Paper accepted to AACL 2025 <i>Pralekha: Cross-lingual Document Alignment for Indic Languages</i> <a href="https://arxiv.org/abs/2411.19096">[pre-print]</a> </li> 
+<li> <i>5 Oct 2025</i>: Sad to hear the untimely demise of my Ph.D advisor and a titan of Indian language NLP - Prof. Pushpak Bhattacharyya. My little tribute to him  <a href="https://www.linkedin.com/posts/anoopkunchukuttan_yesterday-i-woke-up-to-the-shocking-sad-activity-7380992436572966913--b0n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABHyKQBPNXMnbOW1k2JoTDkWqTu5EGo3Cw">[HERE]</a> </li> 
 <li> <i>24 Jun 2025</i>: Tutorial on <i>Building Multilingual NLP datasets at scale</i> at IASNLP Summer School at IIIT Hyderabad. <a href="/files/publications/presentations/iasnlp_iiith_building_datasets_2025.pdf">[slides]</a> </li> 
 <li> <i>19 Jun 2025</i>: Upcoming talk at OdiaGen (IIT Bhubaneshwar) on reasoning models. </li>
 <li> <i>22 May 2025</i>: Hands-on tutorial from our team to train reasoning models at scale with open-source software and leveraging the power of Azure ML to make the process easy at Microsoft Build 2025. <a href="https://build.microsoft.com/en-US/sessions/BRK172?source=sessions">[Demo at 27 min]</a> &nbsp;&nbsp; <a href="https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/grpo/launch_grpo_command_job-med-mcqa-commented.ipynb">[Jupyter Notebook]</a> </li>
