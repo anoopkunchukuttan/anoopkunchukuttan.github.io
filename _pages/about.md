@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Multilingual and Indian language NLP Researcher"
 author_profile: true
 redirect_from: 
   - /about/
