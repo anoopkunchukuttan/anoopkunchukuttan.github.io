@@ -20,10 +20,12 @@ I completed my Ph.D. in 2018 at the [Department of Computer Science and Engineer
 
 News
 ====
+<li> <i>19 Nov 2025</i>: Invited Talk on <i>Language Technology in AI and NLP: Indian Languages in the Digital Age</i> at Bharatiya Bhasha Sangam, English and Foreign Languages University, Hyderabad.  [[slides]](/files/publications/presentations/eflu_talk_ai_indicnlp_2025.pdf)</li>
 <li> <i>28 Oct 2025</i>: 2 new pre-prints on reasoning - one on multilingual reasoning (<a href="https://arxiv.org/abs/2510.24932"><i>RiddleBench: A New Generative Reasoning Benchmark for LLMs</i></a>) and another on a new challenging Puzzle benchmark to evaluate reasoning models (<a href="https://arxiv.org/abs/2510.20647"><i>The Reasoning Lingua Franca: A Double-Edged Sword for Multilingual AI
-</i></a>)  </li> 
+</i></a>)  </li>
 <li> <i>25 Oct 2025</i>: Paper accepted to AACL 2025 <i>Pralekha: Cross-lingual Document Alignment for Indic Languages</i> <a href="https://arxiv.org/abs/2411.19096">[pre-print]</a> </li> 
-<li> <i>5 Oct 2025</i>: Sad to hear the untimely demise of my Ph.D advisor and a titan of Indian language NLP - Prof. Pushpak Bhattacharyya. My little tribute to him  <a href="https://www.linkedin.com/posts/anoopkunchukuttan_yesterday-i-woke-up-to-the-shocking-sad-activity-7380992436572966913--b0n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABHyKQBPNXMnbOW1k2JoTDkWqTu5EGo3Cw">[HERE]</a> </li> 
+<li> <i>5 Oct 2025</i>: Shocked to hear the untimely demise of my Ph.D advisor and a titan of Indian language NLP - Prof. Pushpak Bhattacharyya. My little tribute to him  <a href="https://www.linkedin.com/posts/anoopkunchukuttan_yesterday-i-woke-up-to-the-shocking-sad-activity-7380992436572966913--b0n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABHyKQBPNXMnbOW1k2JoTDkWqTu5EGo3Cw">[HERE]</a> </li> 
+<li> <i>8 Sep 2025</i>: Course Lectures on (a) Language Modeling and Seq-to-Seq Modeling, (b) The Transformer Model for Prof. Pushpak Bhattacharyya's course of [Deep Learning for NLP (CS772) - 2025](https://www.cse.iitb.ac.in/~cs772) at IIT Bombay.  </li>
 <li> <i>24 Jun 2025</i>: Tutorial on <i>Building Multilingual NLP datasets at scale</i> at IASNLP Summer School at IIIT Hyderabad. <a href="/files/publications/presentations/iasnlp_iiith_building_datasets_2025.pdf">[slides]</a> </li> 
 <li> <i>19 Jun 2025</i>: Upcoming talk at OdiaGen (IIT Bhubaneshwar) on reasoning models. </li>
 <li> <i>22 May 2025</i>: Hands-on tutorial from our team to train reasoning models at scale with open-source software and leveraging the power of Azure ML to make the process easy at Microsoft Build 2025. <a href="https://build.microsoft.com/en-US/sessions/BRK172?source=sessions">[Demo at 27 min]</a> &nbsp;&nbsp; <a href="https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/grpo/launch_grpo_command_job-med-mcqa-commented.ipynb">[Jupyter Notebook]</a> </li>
