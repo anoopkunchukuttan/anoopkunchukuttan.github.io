@@ -17,6 +17,12 @@ main:
   - title: "Students"
     url: /students/  
 
+  - title: "Service"
+    url: /service
+
+  - title: "Recognition"
+    url: /recognition
+
   - title: "Resources"
     url: /resources
 
