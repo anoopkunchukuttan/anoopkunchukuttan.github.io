@@ -12,23 +12,28 @@ include_scripts:
 <h2>Filter by Research Area:</h2>
 <div style='display: flex; flex-wrap: wrap; gap: 10px;'>
 <button onclick="filterList('all')">Show All</button>
+<button onclick="filterList('Indic')">Indic</button>
+<button onclick="filterList('Multilingual')">Multilingual</button>
+<button onclick="filterList('LM')">LM</button>
+<button onclick="filterList('Speech')">Speech</button>
+<button onclick="filterList('Reasoning')">Reasoning</button>
+<button onclick="filterList('Translation')">Translation</button>
+<button onclick="filterList('Transliteration')">Transliteration</button>
 <button onclick="filterList('ASR')">ASR</button>
 <button onclick="filterList('Crowdsourcing')">Crowdsourcing</button>
 <button onclick="filterList('Embeddings')">Embeddings</button>
 <button onclick="filterList('Evaluation')">Evaluation</button>
 <button onclick="filterList('Grammar-Correction')">Grammar-Correction</button>
-<button onclick="filterList('Indic')">Indic</button>
-<button onclick="filterList('LM')">LM</button>
 <button onclick="filterList('MWE')">MWE</button>
-<button onclick="filterList('Misc')">Misc</button>
-<button onclick="filterList('Multilingual')">Multilingual</button>
 <button onclick="filterList('Multimodal')">Multimodal</button>
+<button onclick="filterList('Misc')">Misc</button>
 <button onclick="filterList('NLP')">NLP</button>
-<button onclick="filterList('Reasoning')">Reasoning</button>
-<button onclick="filterList('Speech')">Speech</button>
-<button onclick="filterList('Translation')">Translation</button>
-<button onclick="filterList('Transliteration')">Transliteration</button>
 </div>
+
+<!-- Copy only the publication list from automatically generated list below, don't overwrite research areas above -->
+<!-- Don't change order of research areas above by copy from automatically generated list- it has been curated manually -->
+
+
 <ol id='publicationList' style='padding-left: 20px;'>
 <h2 class="year-header 2025">2025</h2>
 <li class="publication-item NLP Reasoning 2025" style="margin-bottom: 15px;">
@@ -86,6 +91,12 @@ include_scripts:
 <div><a href='https://arxiv.org/abs/2410.13394'>[paper]</a></div>
 </li>
 <h2 class="year-header 2024">2024</h2>
+<li class="publication-item NLP LM Indic 2024" style="margin-bottom: 15px;">
+<div><b style='color: green;'>Airavata: Introducing Hindi Instruction-tuned LLM</b></div>
+<div>Jay Gala, Thanmay Jayakumar, Jaavid Aktar Husain, Aswanth Kumar M, Mohammed Safi Ur Rahman Khan, Diptesh Kanojia, Ratish Puduppully, Mitesh M. Khapra, Raj Dabre, Rudra Murthy, <u>Anoop Kunchukuttan</u></div>
+<div><b>arXiv preprint arXiv:2401.15006</b>, 2024</div>
+<div><a href='https://arxiv.org/abs/2401.15006'>[paper]</a></div>
+</li>
 <li class="publication-item NLP LM Multilingual 2024" style="margin-bottom: 15px;">
 <div><b style='color: green;'>Extending English Large Language Models to New Languages: A Survey</b></div>
 <div><u>Anoop Kunchukuttan</u></div>
