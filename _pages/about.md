@@ -21,8 +21,8 @@ I completed my Ph.D. in 2018 at the [Department of Computer Science and Engineer
 News
 ====
 
+<li> <i>20 Dec 2025</i>: Honoured to present the Prof. Pushpak Memorial Lecture at <a href="https://indoml.in">IndoML 2025</a> on <i>Prof. Pushpak Bhattacharya: The Guru and the Visionary Paving the Way for Indic NLP </i> <a href="/files/publications/presentations/prof_pushpak_memorial_lecture_indoml_2025.pdf">[transcript]</a> </li>
 <li> <i>19 Dec 2025</i>: Glad to be on the Hindu In-Focus Parley podcast discussing <i>Is the Artificial Intelligence boom a bubble?</i> with Dr. Bhagwan Chowdhry from ISB and Areena Arora &nbsp;&nbsp; <a href="https://www.thehindu.com/podcast/in-focus-parley-is-the-artificial-intelligence-boom-a-bubble/article70412059.ece">[podcast]</a> &nbsp;&nbsp; <a href="/files/publications/presentations/ai_bubble_hindu_podcast_dec25.pdf">[print]</a> </li>
-<li> <i>14 Dec 2025</i>: Honoured to present the Prof. Pushpak Memorial Lecture at <a href="https://indoml.in">IndoML 2025</a> on 20th Dec 2025 </li>
 <li> <i>21 Nov 2025</i>: Azure Model Router is now GA with lots of new features and support for many new model families. It can route between many popular models out of the box with significant cost saving and high quality - please give it a try. Happy to have been part of the journey. 
   <a href="https://www.linkedin.com/posts/sanjeevjagtap_model-router-ga-at-microsoft-ignite-2025-activity-7397408475653300224-wWoP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABHyKQBPNXMnbOW1k2JoTDkWqTu5EGo3Cw">[More info...]</a> </li>
 <li> <i>19 Nov 2025</i>: Invited Talk on <i>Language Technology in AI and NLP: Indian Languages in the Digital Age</i> at Bharatiya Bhasha Sangam, English and Foreign Languages University, Hyderabad. <a href="/files/publications/presentations/eflu_talk_ai_indicnlp_2025.pdf">[slides]</a> </li>
