@@ -21,6 +21,7 @@ I completed my Ph.D. in 2018 at the [Department of Computer Science and Engineer
 News
 ====
 
+<li> <i>21 Dec 2025</i>: Glad to attend the CFILT day to celebrate the 25th anniversary of my alma mater and pay tributes to Prof. Pushpak Bhattacharyya. This was held as part of AACL-IJCNLP 20005 being hosted at IIT Bombay.</li>
 <li> <i>20 Dec 2025</i>: Honoured to present the Prof. Pushpak Memorial Lecture at <a href="https://indoml.in">IndoML 2025</a> on <i>Prof. Pushpak Bhattacharya: The Guru and the Visionary Paving the Way for Indic NLP </i> <a href="/files/publications/presentations/prof_pushpak_memorial_lecture_indoml_2025.pdf">[transcript]</a> </li>
 <li> <i>19 Dec 2025</i>: Glad to be on the Hindu In-Focus Parley podcast discussing <i>Is the Artificial Intelligence boom a bubble?</i> with Dr. Bhagwan Chowdhry from ISB and Areena Arora &nbsp;&nbsp; <a href="https://www.thehindu.com/podcast/in-focus-parley-is-the-artificial-intelligence-boom-a-bubble/article70412059.ece">[podcast]</a> &nbsp;&nbsp; <a href="/files/publications/presentations/ai_bubble_hindu_podcast_dec25.pdf">[print]</a> </li>
 <li> <i>21 Nov 2025</i>: Azure Model Router is now GA with lots of new features and support for many new model families. It can route between many popular models out of the box with significant cost saving and high quality - please give it a try. Happy to have been part of the journey. 
