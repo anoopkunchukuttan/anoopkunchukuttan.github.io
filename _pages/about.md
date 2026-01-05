@@ -21,6 +21,7 @@ I completed my Ph.D. in 2018 at the [Department of Computer Science and Engineer
 News
 ====
 
+<li> <i>04 Jan 2026</i>: [Upcoming] Invited talk on <i>Multilingual Language Modeling</i> at the Trustworthy AI for Social Good: From Multimodal Learning to Large Language Models, NIT Surathkal, Pre-Summit Event for AI Impact Summit 2026 </li>
 <li> <i>04 Jan 2026</i>: 2 papers accepted at EACL 2026: <a href="https://arxiv.org/abs/2510.24932"><i>RiddleBench: A New Generative Reasoning Benchmark for LLMs</i></a> and <a href="https://arxiv.org/abs/2510.20647"><i>The Reasoning Lingua Franca: A Double-Edged Sword for Multilingual AI</i></a>  </li>
 <li> <i>21 Dec 2025</i>: Glad to attend the CFILT day to celebrate the 25th anniversary of my alma mater and pay tributes to Prof. Pushpak Bhattacharyya. This was held as part of AACL-IJCNLP 20005 being hosted at IIT Bombay.</li>
 <li> <i>20 Dec 2025</i>: Honoured to present the Prof. Pushpak Memorial Lecture at <a href="https://indoml.in">IndoML 2025</a> on <i>Prof. Pushpak Bhattacharya: The Guru and the Visionary Paving the Way for Indic NLP </i> <a href="/files/publications/presentations/prof_pushpak_memorial_lecture_indoml_2025.pdf">[transcript]</a> </li>

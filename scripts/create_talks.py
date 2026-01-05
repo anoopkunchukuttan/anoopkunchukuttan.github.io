@@ -9,6 +9,7 @@ def generate_html_from_excel(file_path, output_file):
         "Tutorial": ("Tutorials", "tutorials"),
         "Keynote": ("Keynotes", "keynotes"),
         "Invited Talk": ("Invited Talks", "invited_talks"),
+        "Panel Discussion": ("Panel Discussions", "panel_discussions"),
         "Course Lecture": ("Course Lectures", "course_lectures"),
     }
     
@@ -40,6 +41,8 @@ def generate_html_from_excel(file_path, output_file):
     # Write to output HTML file
     with open(output_file, "w", encoding="utf-8") as file:
         file.write(html_content)
+
+    print(f"HTML file generated: {output_file}")
 
 # Read from "my_talks.xlsx" and output to "my_talks.html"
 file_path = "my_talks.xlsx"
