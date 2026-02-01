@@ -7,6 +7,37 @@ redirect_from:
   - /news.html
 ---
 
+<h2>2026</h2>
+<li> <i>31 Jan 2026</i>: Happy to be part of 2 round-tables at  "Understanding Trust and Safety in AI: From Code to Creativity," an official pre-summit event ahead of the <b>India AI Impact Summit 2026</b>, organised by SFLC.in in collaboration with VISWAM.AI, FOSS United, and The Linux Foundation. The round tables were: (a) Open Source AI, (b) Balancing AI Innovation and Copyright. <a href="https://www.linkedin.com/posts/software-freedom-law-centre-india-sflc%2Ein-_indiaai-indiaaiimpactsummit2026-presummitevent-activity-7423332964060647424-QZiJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABHyKQBPNXMnbOW1k2JoTDkWqTu5EGo3Cw">[LinkedIn]</a></li>
+<li> <i>31 Jan 2026</i>: Talk at BITS Pilani NLP Course on "AI4Bharat: Transforming the Landscape of Indian Language Technology" &nbsp;&nbsp; <a href="/files/publications/presentations/ai4bharat_bits_course_2026.pdf">[slides]</a> </li>
+<li> <i>04 Jan 2026</i>: 2 papers accepted at EACL 2026: <a href="https://arxiv.org/abs/2510.24932"><i>RiddleBench: A New Generative Reasoning Benchmark for LLMs</i></a> and <a href="https://arxiv.org/abs/2510.20647"><i>The Reasoning Lingua Franca: A Double-Edged Sword for Multilingual AI</i></a>  </li>
+
+<h2>2025</h2>
+<li> <i>21 Dec 2025</i>: Glad to attend the CFILT day to celebrate the 25th anniversary of my alma mater and pay tributes to Prof. Pushpak Bhattacharyya. This was held as part of AACL-IJCNLP 20005 being hosted at IIT Bombay.</li>
+<li> <i>20 Dec 2025</i>: Honoured to present the Prof. Pushpak Memorial Lecture at <a href="https://indoml.in">IndoML 2025</a> on <i>Prof. Pushpak Bhattacharya: The Guru and the Visionary Paving the Way for Indic NLP </i> <a href="/files/publications/presentations/prof_pushpak_memorial_lecture_indoml_2025.pdf">[transcript]</a> </li>
+<li> <i>19 Dec 2025</i>: Glad to be on the Hindu In-Focus Parley podcast discussing <i>Is the Artificial Intelligence boom a bubble?</i> with Dr. Bhagwan Chowdhry from ISB and Areena Arora &nbsp;&nbsp; <a href="https://www.thehindu.com/podcast/in-focus-parley-is-the-artificial-intelligence-boom-a-bubble/article70412059.ece">[podcast]</a> &nbsp;&nbsp; <a href="/files/publications/presentations/ai_bubble_hindu_podcast_dec25.pdf">[print]</a> </li>
+<li> <i>21 Nov 2025</i>: Azure Model Router is now GA with lots of new features and support for many new model families. It can route between many popular models out of the box with significant cost saving and high quality - please give it a try. Happy to have been part of the journey. 
+  <a href="https://www.linkedin.com/posts/sanjeevjagtap_model-router-ga-at-microsoft-ignite-2025-activity-7397408475653300224-wWoP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABHyKQBPNXMnbOW1k2JoTDkWqTu5EGo3Cw">[More info...]</a> </li>
+<li> <i>19 Nov 2025</i>: Invited Talk on <i>Language Technology in AI and NLP: Indian Languages in the Digital Age</i> at Bharatiya Bhasha Sangam, English and Foreign Languages University, Hyderabad. <a href="/files/publications/presentations/eflu_talk_ai_indicnlp_2025.pdf">[slides]</a> </li>
+<li> <i>17 Nov 2025</i>:  Honoured to be invited to be part of the Textbook Development Team (TDT) for Grade 11 and 12 Textbooks in Foundations and Methods of Artificial Intelligence for NCERT. Looking forward to contribute to building a basic AI syllabus that sparks the curiosity of young students in this exciting area of technology. </li> 
+<li> <i>8 Nov 2025</i>: Presented our tutorial on <i>Data and Model Centric Approaches for Expansion of Large Language Models to New languages</i> at EMNLP, Suzhou. <a href="https://ai4bharat.github.io/multilingual-llm-expand-emnlp-2025">[website]</a> &nbsp;&nbsp; <a href="https://ai4bharat.github.io/multilingual-llm-expand-emnlp-2025/multilingual-llm-expand-emnlp-2025-slides.pdf">[slides]</a>  &nbsp;&nbsp; <a href="https://youtu.be/D0kQQVy7a0E">[video]</a>  </li>
+<li> <i>28 Oct 2025</i>: 2 new pre-prints on reasoning - one on multilingual reasoning (<a href="https://arxiv.org/abs/2510.20647"><i>The Reasoning Lingua Franca: A Double-Edged Sword for Multilingual AI
+</i></a>) and another on a new challenging Puzzle benchmark to evaluate reasoning models (<a href="https://arxiv.org/abs/2510.24932"><i>RiddleBench: A New Generative Reasoning Benchmark for LLMs</i></a>)  </li>
+<li> <i>25 Oct 2025</i>: Paper accepted to AACL 2025. <i>Pralekha: Cross-lingual Document Alignment for Indic Languages</i> <a href="https://arxiv.org/abs/2411.19096">[pre-print]</a> </li> 
+<li> <i>5 Oct 2025</i>: Shocked to hear the untimely demise of my Ph.D advisor and a titan of Indian language NLP - Prof. Pushpak Bhattacharyya. My little tribute to him  <a href="https://www.linkedin.com/posts/anoopkunchukuttan_yesterday-i-woke-up-to-the-shocking-sad-activity-7380992436572966913--b0n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABHyKQBPNXMnbOW1k2JoTDkWqTu5EGo3Cw">[HERE]</a> </li> 
+<li> <i>8 Sep 2025</i>: Course Lectures on (a) Language Modeling and Seq-to-Seq Modeling, (b) The Transformer Model for Prof. Pushpak Bhattacharyya's course of <a href="https://www.cse.iitb.ac.in/~cs772">Deep Learning for NLP (CS772) - 2025</a> at IIT Bombay.  </li>
+<li> <i>3 Jul 2025</i>: Talk on introduction to reasoning models at OdiaGen 2025 <a href="publications/presentations/OdiaGen_ReasoningModelsIntro_2025.pdf">[slides]</a>. </li>
+<li> <i>24 Jun 2025</i>: Tutorial on <i>Building Multilingual NLP datasets at scale</i> at IASNLP Summer School at IIIT Hyderabad. <a href="/files/publications/presentations/iasnlp_iiith_building_datasets_2025.pdf">[slides]</a> </li>
+<li> <i>22 May 2025</i>: Hands-on tutorial from our team to train reasoning models at scale with open-source software and leveraging the power of Azure ML to make the process easy at Microsoft Build 2025. <a href="https://build.microsoft.com/en-US/sessions/BRK172?source=sessions">[Demo at 27 min]</a> &nbsp;&nbsp; <a href="https://github.com/Azure/azureml-examples/blob/main/sdk/python/jobs/grpo/launch_grpo_command_job-med-mcqa-commented.ipynb">[Jupyter Notebook]</a> </li>
+<li> <i>16 May 2025</i>: 3 papers accepted to ACL 2025. Congratulations to all my collaborators and students! Continuing with our efforts to improve Indian language NLP and understanding multilingual models! <a href="https://arxiv.org/abs/2411.04699">[BhasaAnuvaad]</a> &nbsp;&nbsp; <a href="https://arxiv.org/abs/2410.13394">[CIA: Cross-lingual LLM Evaluation]</a> &nbsp;&nbsp; <a href="https://arxiv.org/abs/2502.07424">[RomanLens]</a> </li>
+<li> <i>12 Apr 2025</i>: Happy to be part of panel discussions at <a href="https://www.aidays.io">AI Days 2025</a>, Hyderabad on Indian language NLP and LLMs. </li> 
+<li> <i>Apr 2025</i> Honoured to be part of the Academic Council at IIIT-Hyderabad. </li>
+<li> <i>Apr 2025</i> Honoured to be part of the CLD Program Curriculum and Review Committee at IIIT-Hyderabad. </li>
+<li> <i>8 Feb 2025</i>: Invited talk on <i>An Introduction to Reasoning 
+  Models with DeepSeek R1</i> as part of CSE Department Day, IIT Hyderabad. The talk introduces reasonin gmodels, particularly DeepSeek R1 and open-source reasoninng efforts initiated since R1's release. <a href="/files/publications/presentations/DeepSeek-OSSProjects-Intro-Feb2025.pdf">[slides]</a>  </li> 
+<li> <i>12 Jan 2025</i>: Lecture on <i>Multilingual Language Modeling</i> as part of winter school on "Deep Learning for Vision and Language Modelling" at IIT Guwahati. The talk covers various aspects of multilingual learning from the beginning of the deep learning era to current multilingual LLMs. <a href="/files/publications/presentations/wintersc_iitguwahati_multilingual_model_jan25.pdf">[slides]</a>  </li> 
+
+
 <h2>2024</h2>
 <li> <i>26 Dec 2024</i>: Honoured to received the KnowDis Machine Learning Award for 2024 along with Prof. Mitesh Khapra <a href="https://www.aninews.in/news/business/knowdis-ai-founder-saurabh-singal-announces-recipients-of-the-knowdis-machine-learning-awards20241226134135">[article]</a>  </li> 
 <li> <i>7 Dec 2024</i>: Talk about <i>NLP at scale for Indian languages</i> on the occasion of the <a href="https://ltrc.iiit.ac.in/silver-jubilee/">25th anniversary celebrations of Language Technologies Research Centre (LTRC)</a>, International Institute of Information Technology Hyderabad (IIITH) Glad to participate int he celebrations and meet a lot of old friends, colleagues and mentors from across India. Congratulations to LTRC on this great milestone! <a href="https://www.youtube.com/live/kdrsDGOnZEA?si=xP47DXIZVsyM9paG&t=10450">[talk recording]</a> <a href="/files/publications/presentations/ltrc25_nlpscale_indic_dec24.pdf">[slides]</a> </li>
@@ -22,7 +53,9 @@ redirect_from:
 <li> <i>27 Jan 2024</i>: Our paper on machine translation for extremely low-resource languages that utilizies lexical similarity has been accepted to **EACL 2024**.  <a href="https://arxiv.org/abs/2305.05214">[pre-print]</a> </li>
 <li> <i>26 Jan 2024</i>: Work from my team at Microsoft Translator on supporting 2 new Indian languages  (Manipuri, Chattisgarhi) is now live. <a href="https://news.microsoft.com/en-in/microsoft-translator-adds-two-new-languages-chhattisgarhi-and-manipuri/">[Details]</a></li>
 <li> <i>25 January 2024</i>: AI4Bharat releases a new instruction-tuned model for Hindi, Airavata along with finetuning datasets and a benchmark collection.  <a href="https://ai4bharat.github.io/airavata">[blog]</a> </li>
-<li> <i>15 Nov 2023</i>: Our paper "A Comprehensive Analysis of Adapter Efficiency" has been accpeted to CoDS-COMAD 2024.  <a href="https://arxiv.org/abs/2305.07491">[pre-print]</a> </li>
+
+<h2>2023</h2>
+<li> <i>15 Nov 2023</i>: Our paper "A Comprehensive Analysis of Adapter Efficiency" has been accepted to CoDS-COMAD 2024.  <a href="https://arxiv.org/abs/2305.07491">[pre-print]</a> </li>
 <li> <i>6 Oct 2023</i>: Three papers accepted to EMNLP 2023 (1 Main, 2 Findings). All three works will presented as posters at EMNLP. <a href="https://twitter.com/ai4bharat/status/1712474113825230948">[Details]</a></li>
 <li> <i>5 Oct 2023</i>: Work from my team at Microsoft Translator on supporting 4 new Indian languages  (Bhojpuri, Bodo, Dogri, and Kashmiri) is now live. <a href="https://news.microsoft.com/en-in/microsoft-translator-expands-to-20-indian-languages-empowering-linguistic-diversity">[Details]</a></li>
 <li> <i>1 Sep 2023</i>: Starting new role as Principal Applied Researcher at Microsoft India. </li>
@@ -38,24 +71,30 @@ workshop at ICLM (non-archival) <a href="https://arxiv.org/abs/2305.07491">[arxi
 <li> <i>10 May 2023</i>: New pre-print on machine translation for extremely low-resource languages <a href="https://arxiv.org/abs/2305.05214">[arxiv]</a></li>
 <li> <i>1 May 2023</i>: Four papers on Indian language NLP accepted to ACL 2023. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7059502799276969984">[Details]</a></li>
 <li> <i>24 Jan 2023</i>: Invited talk at IIT Hyderabad on <i>Mining Datasets at scale for Building High-quality NLP Models</i> <a href="publications/presentations/mining_NLP_IITHyd_jan2023.pdf">[slides]</a> </li>
+
+<h2>2022</h2>
 <li> <i>28 Jul 2022</i>: Inaguration of the <a href=https://ai4bharat.iitm.ac.in">AI4Bharat</a> center at IIT Madras.  </li>
 <li> <i>14 Apr 2022</i>: Invited talk at IISER Bhopal on <i>Multilingual Learning and Mining Datasets for Building High-quality NLP Models</i> <a href="publications/presentations/iiser_bhopal_2022.pdf">[slides]</a> </li>
 <li> <i>10 Mar 2022</i>: IndicNLG Suite released with 5 generation tasks for 11 Indian languages <a href="https://arxiv.org/abs/2203.05437">[paper]</a> <a href="https://indicnlp.ai4bharat.org/indicnlg-suite">[homepage]</a> </li> 
 <li> <i>4 Mar 2022</i>: I conducted lectures on sequence labeling and sequence-to-sequence learning covering RNN, LSTM, Transformers, etc. for <b><a href="https://www.cfilt.iitb.ac.in/~cs772-2022/">CS-772</a></b> (Deep Learning for NLP) by Prof. Pushpak Bhattacharyya. </li> 
 <li> <i>4 Mar 2022</i>: Our paper on <a href="https://arxiv.org/abs/2109.02903">IndicBART</a>, a seq2seq pretrained model for 11 Indian languages accepted to Findings of ACL 2022 </li> 
+
+<h2>2021</h2>
 <li> <i>31 Dec 2021</i>: I presented a tutorial on the <a href="publications/presentations/AI4Bharat_Initiative_ICON2021.pdf"><i>AI4Bharat Initiative</i></a> at ICON 2021 with Mitesh Khapra and Pratyush Kumar </li>
 <li> <i>10 Dec 2021</i>: Our paper on <a href="https://www.aaai.org/AAAI22Papers/AAAI-12428.JavedT.pdf">IndicWav2Vec</a>, a pretrained speech model  for 40 Indian languages accepted to AAAI 2022 </li> 
 <li> <i>4 Dec 2021</i>: I presented an invited talk at Tamil Internet Conference 2021 on <a href="publications/presentations/TIC_indiccomputing_dec2021.pdf"><i>Indian Language Computing: A Multilingual Perspective</i></a> </li>
 <li> <i>20 Oct 2021</i>: Work from my team at Microsoft Translator on supporting Dhivehi (language spoken in Maldives) is now live. <a href="https://news.microsoft.com/source/features/ai/microsoft-translator-100-language-milestone/#:~:text=The%20new%20languages%20and%20dialects,spoken%20by%2084.6%20million%20people.">[Details]</a></li>
 <li> <i>5 Aug 2021</i>: Glad to be part of the Samanantar team that received the <a href="publications/presentations/NASSCOM_AI_gamechangers_compendium_2021-AI4Bharat.pdf"><i>NASSCOM AI Gamechangers Award</i></a> 2021.</li>
 <li> <i>15 Aug 2021</i>: Glad to chair the  SIGKDD 2021 Data Science in India Workshop networking session on NLP.</li>
-<li> <i>15 Jul 2021</i>: I conducted sessions on <a href="publications/presentations/ACM-India_NLP_Summer_School_2021.pdf"><i>Machine Translation</i></a>  at the ACM NLP Summer school. </i>
+<li> <i>15 Jul 2021</i>: I conducted sessions on <a href="publications/presentations/ACM-India_NLP_Summer_School_2021.pdf"><i>Machine Translation</i></a>  at the ACM NLP Summer school. </li>
 <li> <i>1 Jul 2021</i>: Our survey paper on Multilingual Pre-trained models is now available on <a href="https://arxiv.org/abs/2107.00676">arxiv</a>.
 <li> <i>15 Jun 2021</i>: Happy to be part of the <a href="https://www.ciil.org">CIIL</a> panel discussion on "Language Resources for AI in Indian Languages".
 <li> <i>18 Apr 2021</i>: My team at Microsoft India will be presenting our work at EACL 2021 on large-scale multilingual transliteration for Indian languages on mined transliteration corpora of 600k word pairs between English and 10 Indic language pairs. 
 <li> <i>13 Apr 2021</i>: We at AI4Bharat with EkStep Foundation released <b><a href="https://indicnlp.ai4bharat.org/samanantar">Samanantar</a></b>, the largest publicly available corpus for Indian languages containing 46M sentence pairs between English and 11 Indian languages.</li>
 <li> <i>15 Feb 2021</i>: I conducted lectures on sequence labeling and sequence-to-sequence learning covering RNN, LSTM, Transformers, etc. for <b><a href="https://www.cfilt.iitb.ac.in/~cs772/">CS-772</a></b> (Deep Learning for NLP) by Prof. Pushpak Bhattacharyya. </li> 
 <li> <i>2 Jan 2021</i>: Glad to chair an NLP Session at CoDS-COMAD 2021. </li> 
+
+<h2>2020</h2>
 <li> <i>20 Dec 2020</i>: Glad to chair a Machine Translation Session at ICON 2020. </li> 
 <li> <i>03 Dec 2020</i>: Presented talk at Prof. Tanmoy Chakraborthy's ML course (IIIT Delhi) on <i>Bridging the gap between Experimental Prototypes  and Production ML systems</i>. </li> 
 <li> <i>10 Nov 2020</i>: I will be part of a panel discussion on NLP/MT for low-resource languages at WMT 2020. </li> 
@@ -86,10 +125,14 @@ workshop at ICLM (non-archival) <a href="https://arxiv.org/abs/2305.07491">[arxi
 <li> <i>23 Jan 2020</i>: IndicNLP library featured on AnalyticsVidhya <a href="https://www.analyticsvidhya.com/blog/2020/01/3-important-nlp-libraries-indian-languages-python/">[link]</a> </li>
 <li> <i>16 Jan 2020</i>: Lecture on Neural MT at CEP course on Deep Learning for Natural Language Processing at IIT Patna <a href="publications/presentations/cep_iitpatna_mt_2020.pdf">[slides]</a> </li> 
 <li> <i>05 Jan 2020</i>: Our revised and expanded <a href="https://arxiv.org/abs/2001.01115">survey</a> on Multilingual Neural MT is available.</li> 
+
+<h2>2019</h2>
 <li> <i>26 Oct 2019</i>: Tutorial on <i>Multilingual NMT</i> accepted at COLING 2020, Barcelona, September 2020 with Raj Dabre and Chenhui Chu. </li>
 <li> <i>26 Oct 2019</i>: <i>Workshop on Asian Translation (WAT) 2020 </i> to be co-located with AACL/IJCNLP 2020.  We will have en-hi and en-ta tasks. We may also have a multilingual Indic language translation tasks</i>
 <li> <i>30 Aug 2019</i>: Started a <a href="https://github.com/indicnlpweb/indicnlp_catalog">collaborative catalog for Indian language NLP resources</a>. Please contribute to improve the catalog.</li> 
 <li> <i>30 Aug 2019</i>: Invited talk at NASSCOM DSAI-CoE on <i>NLP for Indian Languages: A Language Relatedness Perspective</i>.<a href="publications/presentations/nasscom_indicnlp_talk_aug_2019.pdf">[slides]</a>  </li>
 <li> <i>29 Jul 2019</i>: Presented our paper <i><a href="publications/tacl2019_geomm.pdf">Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach</a></i> at ACL 2019. <a href="http://www.livecongress.it/aol/indexSA.php?id=73492898&ticket=">[video]</a></li>
 <li> <i>27 Jul 2019</i>: Tutorial at the IIT Alumni Center Bengaluru AI Deep Dive Workshop 2019 on <i>Natural Language Processing - A Distributional Approach</i>. <a href="publications/presentations/iitacb_nlp_tutorial_27Jul2019.pdf">[slides]</a>
+
+<h2>2018</h2>
 <li> <i>4 Sep 2018</i>: Work from my team at Microsoft Translator on supporting Telugu is now live. <a href="https://www.microsoft.com/en-us/translator/blog/2018/09/04/microsoft-translator-adds-telugu-as-a-supported-language/">[Details]</a></li>   
