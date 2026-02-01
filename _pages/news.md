@@ -7,8 +7,7 @@ redirect_from:
   - /news.html
 ---
 
-<ul>
-<h3>2024</h3>
+<h2>2024</h2>
 <li> <i>26 Dec 2024</i>: Honoured to received the KnowDis Machine Learning Award for 2024 along with Prof. Mitesh Khapra <a href="https://www.aninews.in/news/business/knowdis-ai-founder-saurabh-singal-announces-recipients-of-the-knowdis-machine-learning-awards20241226134135">[article]</a>  </li> 
 <li> <i>7 Dec 2024</i>: Talk about <i>NLP at scale for Indian languages</i> on the occasion of the <a href="https://ltrc.iiit.ac.in/silver-jubilee/">25th anniversary celebrations of Language Technologies Research Centre (LTRC)</a>, International Institute of Information Technology Hyderabad (IIITH) Glad to participate int he celebrations and meet a lot of old friends, colleagues and mentors from across India. Congratulations to LTRC on this great milestone! <a href="https://www.youtube.com/live/kdrsDGOnZEA?si=xP47DXIZVsyM9paG&t=10450">[talk recording]</a> <a href="/files/publications/presentations/ltrc25_nlpscale_indic_dec24.pdf">[slides]</a> </li>
 <li> <i>21 Aug 2024</i>: Honoured to be given the opportunity to serve as Standing Reviewer for the Transactions of ACL journal. </li>
@@ -94,4 +93,3 @@ workshop at ICLM (non-archival) <a href="https://arxiv.org/abs/2305.07491">[arxi
 <li> <i>29 Jul 2019</i>: Presented our paper <i><a href="publications/tacl2019_geomm.pdf">Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach</a></i> at ACL 2019. <a href="http://www.livecongress.it/aol/indexSA.php?id=73492898&ticket=">[video]</a></li>
 <li> <i>27 Jul 2019</i>: Tutorial at the IIT Alumni Center Bengaluru AI Deep Dive Workshop 2019 on <i>Natural Language Processing - A Distributional Approach</i>. <a href="publications/presentations/iitacb_nlp_tutorial_27Jul2019.pdf">[slides]</a>
 <li> <i>4 Sep 2018</i>: Work from my team at Microsoft Translator on supporting Telugu is now live. <a href="https://www.microsoft.com/en-us/translator/blog/2018/09/04/microsoft-translator-adds-telugu-as-a-supported-language/">[Details]</a></li>   
-</ul>
