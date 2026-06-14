@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Anoop Kunchukuttan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Anoop Kunchukuttan"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Anoop Kunchukuttan"
   pronouns         : # example: "she/her"  
-  bio              : "NLP Researcher working on  Multilingual and Multimodal Learning, Indian Language NLP, Efficient LLM Training Reasoning Models, Machine Translation, and Speech Recogntion."
+  bio              : "Researcher working on  Multilingual and Multimodal Learning, Indian Language NLP and Efficient LLM Training and Inference."
   location         : "Hyderabad, India"
   employer         : "Bodhan AI, AI4Bharat"
   uri              : # URL

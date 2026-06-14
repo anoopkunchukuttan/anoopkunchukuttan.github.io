@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI Researcher: Multilingual, Indian language AI, AI-enabled education and learning"
+title: "About Mexs"
 author_profile: true
 redirect_from: 
   - /about/
