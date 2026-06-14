@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Anoop Kunchukuttan"
+title: "AI Researcher: Multilingual, Indian language AI, AI-enabled education and learning"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I lead the research team at [Bodhan AI](https://bodhan.ai) (formally the Centre of Excellence in AI for Education at IIT Madras) as Vice-President (Research). We are building the foundational AI infrastructure for India's education system (the Bharat EduAI Stack). The research team works on fundamental AI particularly, (1) educational language models that can help teachers teach better and students learn better by aligning language models to pedagogical and learning principles, and (2) multilingual and multimodal technologies across text, speech and vision modalities to address India's linguistic diversity and serve multimodal experiences for education use-cases.
+I lead the research team at [Bodhan AI](https://bodhan.ai) (formally the Centre of Excellence in AI for Education at IIT Madras) as Vice-President (Research). We are conducting foundational AI research to build digital public infrastructure for India's education system (the Bharat EduAI Stack). The research team works on fundamental AI particularly:
+
+- Educational language models and other AI approaches that can help teachers teach better and students learn better by aligning language models to pedagogical and learning principles.
+- Multilingual and multimodal AI to address India's linguistic diversity and serve multimodal experiences for providing high-quality AI-enabled education and learning.
+
 
 I am a founding member and co-lead of [**AI4Bharat**](https://ai4bharat.iitm.ac.in), a research center based in IIT Madras that works to drive advances and build resources for Indian language NLP. Over the last decade, I have built/contributed to large-scale, broad-coverage resources like the Indic NLP Library, IndicTrans/Sata-Anuvaadak Translation systems, IndicLLMSuite, Airavata LLM, IIT Bombay Parallel Corpus, Samanantar Corpus, Indic NLP/NLG Suite, and Aksharantar/BrahmiNet transliteration corpora.
 
