@@ -6,7 +6,7 @@ def generate_html_list(input_excel, output_file):
     df = pd.read_excel(input_excel)
     
     # Sort by pub_year (newest to oldest)
-    df = df.sort_values(by="pub_year", ascending=False)
+    df = df.sort_values(by="pub_year", ascending=False, kind="stable")
     
     # Extract and clean unique keywords
     all_keywords = set()
