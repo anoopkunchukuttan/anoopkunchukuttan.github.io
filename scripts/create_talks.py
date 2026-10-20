@@ -32,7 +32,8 @@ def generate_html_from_excel(file_path, output_file):
                     slides_link =  f"/files/{row['slides']}" if  row["slides"].find("http")!=0 else row["slides"]
                     links.append(f'<a href="{slides_link}">[slides]</a>')
                 if pd.notna(row["video"]):
-                    links.append(f'<a href="{row["video"]}">[video]</a>')
+                    video_link =  f"/files/{row['video']}" if  row["video"].find("http")!=0 else row["video"]
+                    links.append(f'<a href="{video_link}">[video]</a>')
                 links_line = " ".join(links)
                 
                 paragraph = f'<p>{talk_title}<br>{venue}{collaborators}<br>{date}<br>{links_line}</p>'
